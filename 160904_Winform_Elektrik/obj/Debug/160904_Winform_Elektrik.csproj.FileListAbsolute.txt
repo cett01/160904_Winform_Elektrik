@@ -1,0 +1,11 @@
+c:\users\ekremcihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\bin\Debug\160904_Winform_Elektrik.exe.config
+c:\users\ekremcihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\bin\Debug\160904_Winform_Elektrik.exe
+c:\users\ekremcihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\bin\Debug\160904_Winform_Elektrik.pdb
+c:\users\ekremcihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\obj\Debug\160904_Winform_Elektrik.csprojResolveAssemblyReference.cache
+c:\users\ekremcihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\obj\Debug\_160904_Winform_Elektrik.Form1.resources
+c:\users\ekremcihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\obj\Debug\_160904_Winform_Elektrik.Properties.Resources.resources
+c:\users\ekremcihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\obj\Debug\160904_Winform_Elektrik.csproj.GenerateResource.Cache
+c:\users\ekremcihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\obj\Debug\160904_Winform_Elektrik.exe
+c:\users\ekremcihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\obj\Debug\160904_Winform_Elektrik.pdb
+C:\Users\EkremCihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\obj\Debug\_160904_Winform_Elektrik.Kayitlar.resources
+C:\Users\EkremCihad\documents\visual studio 2013\Projects\160904_Winform_Elektrik\160904_Winform_Elektrik\obj\Debug\_160904_Winform_Elektrik.Hesapla.resources
